@@ -1,2 +1,1 @@
-# ProyectoMIA
-Proyecto Capstone UDLA
+# Proyecto MIA
